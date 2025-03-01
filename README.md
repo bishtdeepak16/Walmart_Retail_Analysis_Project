@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Title**: Walmmart Retail Analysis
+**Project Title**: Walmart Retail Analysis
 
 This project analyzes Walmart sales data using PostgreSQL and Power BI, providing key insights into revenue trends, customer demographics, and the impact of promotions & discounts.
 
