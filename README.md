@@ -20,7 +20,7 @@ Project Overview
 -Effect of discounts on sales volume & revenue.
 -Identified optimal pricing strategies.
 - Product sales impact by promotions
-- 
+
 3.Customer Demographic Analysis
 -Age & gender-based buying behavior.
 -Purchase frequency by customer segment.
